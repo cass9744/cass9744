@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cass9744
 - ❤️  I’m a graduated Visual Communication Designer from SFSU
 - 👀 I’m interested in coding for websites and gaming
-- 🌱 I have been learning how to use html and css 
+- 🌱 I have been learning html and css 
 - 💞️ I’m looking to collaborate on website development
 - 📫 You can reach me by e-mail: lliaoyueling@gmail.com or discord: cass#9744
 
